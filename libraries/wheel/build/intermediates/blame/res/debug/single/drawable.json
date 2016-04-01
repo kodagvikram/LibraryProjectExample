@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/VIKRAM_ANDROID/MATERIALDESIGN/LibraryProjectExample/libraries/wheel/build/intermediates/res/merged/debug/drawable/wheel_bg.xml",
+        "source": "/VIKRAM_ANDROID/MATERIALDESIGN/LibraryProjectExample/libraries/wheel/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/VIKRAM_ANDROID/MATERIALDESIGN/LibraryProjectExample/libraries/wheel/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/VIKRAM_ANDROID/MATERIALDESIGN/LibraryProjectExample/libraries/wheel/res/drawable/wheel_val.xml"
+    }
+]
